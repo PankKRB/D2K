@@ -1,7 +1,7 @@
 ## 📋 **THÔNG TIN CHUNG**
 
 ### 🔧 **Hỗ trợ phiên bản:**
-- **Minecraft:** 1.20+
+- **Minecraft:** 1.12 - 1.20+
 - **Java:** 1.8+
 - **Spigot/Paper:** ✅ Hỗ trợ đầy đủ
 - **Folia:** ✅ Hỗ trợ chính thức
